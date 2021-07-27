@@ -18,7 +18,6 @@ https://github.com/sknsht/HackerRank
 
 <p align="center">
   <a href="https://twitter.com/rohit_shar8600">
-    
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/rohit_shar8600?color=236ad3&labelColor=1155ba&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/acuon">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/acuon?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -27,6 +26,7 @@ https://github.com/sknsht/HackerRank
 <hr>
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/rohit_shar8600?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rohit_shar8600)-->
+
 
 
 
