@@ -22,7 +22,6 @@ https://github.com/sknsht/HackerRank
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/rohit_shar8600?color=236ad3&labelColor=1155ba&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/acuon">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/acuon?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a>
-
 </p>
 <hr>
 <!--
