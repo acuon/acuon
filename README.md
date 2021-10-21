@@ -50,7 +50,7 @@ https://github.com/sknsht/HackerRank
 - 👯 I’m looking to collaborate on **Android Development Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
 <!-- - 🥅 2021 Goals: Contribute to **Open Source projects** -->
-- ⚡ Fun fact: Programs and Anime
+<!-- - ⚡ Fun fact: Programs and Anime -->
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=acuon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="acuon"></p>-->
