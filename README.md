@@ -49,7 +49,7 @@ https://github.com/sknsht/HackerRank
 - 🌱 I’m currently learning **Android**
 - 👯 I’m looking to collaborate on **Android Development Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
-- 🥅 2021 Goals: Contribute to **Open Source projects**
+<!-- - 🥅 2021 Goals: Contribute to **Open Source projects** -->
 - ⚡ Fun fact: Programs and Anime
 
 <!--
