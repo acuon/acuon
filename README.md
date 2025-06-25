@@ -37,7 +37,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,swift,xcode,jetpack,gradle,git,github,gitlab,firebase,postgres,sqlite,mongodb,docker,aws,tensorflow,pytorch,python,fastlane" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,python,nodejs,androidstudio,xcode,idea,vscode,jetpack,ktor,flutter,gradle,fastlane,git,github,gitlab,githubactions,firebase,postgres,sqlite,mongodb,redis,docker,aws,rabbitmq,tensorflow,pytorch" />
 </p>
 
 ---
