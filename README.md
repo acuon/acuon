@@ -1,84 +1,68 @@
-<!--
-
-
-
-
-source -- https://github.com/DenverCoder1/DenverCoder1
-https://github.com/sknsht/HackerRank
-### Hi there 👋
-
--->
-
-
-
-
-<h3 align="left">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h3 align="center">
+  Welcome to My GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h3>
 
 <p align="center">
-  <a href="https://github.com/acuon"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Rohit%20Sharma;Android%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/acuon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F85D7F&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Rohit+Sharma+%F0%9F%91%8B;Senior+Android+Engineer;Exploring+AI+%26+ML+on+Mobile;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/rohit_shar8600">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/rohit_shar8600?color=236ad3&labelColor=1155ba&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rohit_shar8600?color=1DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
+  </a>
   <a href="https://github.com/acuon">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/acuon?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
-<hr>
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/rohit_shar8600?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rohit_shar8600)-->
-
-
-
-
-
-<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=acuon&label=Profile%20views&color=0e75b6&style=flat" alt="acuon" /> </p>
-
-<!--
-- 🔭 I’m currently working on ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...-->
-
-
-- 🌱 I’m currently learning **Android**
-- 👯 I’m looking to collaborate on **Android Development Projects**
-- 🤔 I’m looking for help with **Competitive Programming**
-<!-- - 🥅 2021 Goals: Contribute to **Open Source projects** -->
-<!-- - ⚡ Fun fact: Programs and Anime -->
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=acuon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="acuon"></p>-->
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=acuon&show_icons=true&locale=en" alt="acuon" /></p>-->
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acuon&show_icons=true&locale=en&layout=compact" alt="acuon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acuon&" alt="acuon" /></p>
-
-<hr>
--->
-
-
-<summary>🔥 Streak stats</summary>
-
-<p>
-    <img title="Streak stats" alt="acuon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=acuon&theme=monokai-metallian&hide_border=true"/>
-  
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/acuon?color=333&label=Follow&logo=github&style=for-the-badge" />
+  </a>
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acuon&label=Profile%20views&color=0e75b6&style=flat" alt="acuon" />
+</p>
 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/acuon/github-readme-stats"><img alt="acuon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=acuon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/acuon/github-readme-stats"><img alt="acuon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuon&langs_count=30&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
+---
 
+### 🚀 About Me
 
-<hr>
+- 🔭 I’m currently building and scaling Android apps with **Jetpack Compose**, **KMP**, **TFLite**, and **AI integrations**
+- 🧠 Exploring: **LangChain**, **OpenAI APIs**, **Agentic workflows**, and **on-device ML**
+- 👯 Looking to collaborate on **cutting-edge mobile products**
+- 🌱 Learning to integrate **AI/ML into mobile development** in meaningful ways
+- 💬 Ask me about **Kotlin**, **Jetpack**, **Kotlin Multiplatform**, **Spring Boot**
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,swift,xcode,jetpack,gradle,git,github,gitlab,firebase,postgres,sqlite,mongodb,docker,aws,tensorflow,pytorch,python,fastlane" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acuon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="acuon's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Quick Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohitshar8600)
+- 🌐 [Portfolio](https://acuon.netlify.app)
+
+---
+
+### ⚡ GitHub Activity Badge (as streak alt)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acuon&theme=monokai" />
+</p>
